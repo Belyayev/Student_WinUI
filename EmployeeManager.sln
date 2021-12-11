@@ -11,7 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{
 EndProject
 Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "EmployeeManager.WinUI (Package)", "EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\EmployeeManager.WinUI (Package).wapproj", "{20EB022E-66FC-474A-A6D9-4F53919BBD3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManager.WinUI", "EmployeeManager.WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI.csproj", "{B778247A-0642-4781-BC93-3F041DA769A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManager.WinUI", "EmployeeManager.WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI.csproj", "{B778247A-0642-4781-BC93-3F041DA769A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManager.ViewModel", "EmployeeManager.ViewModel\EmployeeManager.ViewModel.csproj", "{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -94,6 +96,22 @@ Global
 		{B778247A-0642-4781-BC93-3F041DA769A2}.Release|x64.Build.0 = Release|x64
 		{B778247A-0642-4781-BC93-3F041DA769A2}.Release|x86.ActiveCfg = Release|x86
 		{B778247A-0642-4781-BC93-3F041DA769A2}.Release|x86.Build.0 = Release|x86
+		{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6}.Debug|arm64.ActiveCfg = Debug|Any CPU
+		{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6}.Debug|arm64.Build.0 = Debug|Any CPU
+		{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6}.Debug|x64.Build.0 = Debug|Any CPU
+		{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6}.Debug|x86.Build.0 = Debug|Any CPU
+		{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6}.Release|arm64.ActiveCfg = Release|Any CPU
+		{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6}.Release|arm64.Build.0 = Release|Any CPU
+		{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6}.Release|x64.ActiveCfg = Release|Any CPU
+		{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6}.Release|x64.Build.0 = Release|Any CPU
+		{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6}.Release|x86.ActiveCfg = Release|Any CPU
+		{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -101,6 +119,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{A425173A-C3F9-4251-AFF9-7E95BD7B4BBA} = {DD912DD1-7B66-4245-BD63-C01207561341}
 		{A4D5CF54-E102-45EE-A686-030D64246202} = {DD912DD1-7B66-4245-BD63-C01207561341}
+		{C48389B4-CA2D-473B-9D93-CBF6A22FD5A6} = {DD912DD1-7B66-4245-BD63-C01207561341}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8D719E33-FCFD-4644-95C9-2842C22D405F}
