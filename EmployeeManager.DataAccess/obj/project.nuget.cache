@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ueihhpRtdsG58Z5dvvH+KWiEyyYq3NIHGGME+2keVPZkwzzi78D5Guiq9F6z5ts5FwprqKT3PmpuUUKDc6wxOw==",
+  "dgSpecHash": "Pvua+kKjvfa+u9h1t/AhKhIpHf/787zXFyjCYZCwUvQSprLYkhn1rH4Iy1ztuQD0vCvOTVVFnwGBNsLkICWkXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\4xgoo\\source\\repos\\WebUI\\Project01\\EmployeeManager.DataAccess\\EmployeeManager.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\4xgoo\\source\\repos\\WebUI\\Student_WinUI\\EmployeeManager.DataAccess\\EmployeeManager.DataAccess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

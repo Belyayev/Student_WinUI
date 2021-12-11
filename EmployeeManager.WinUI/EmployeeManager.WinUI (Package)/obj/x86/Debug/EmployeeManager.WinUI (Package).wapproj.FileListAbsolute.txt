@@ -40,3 +40,45 @@ C:\Users\4xgoo\source\repos\WebUI\Project01\EmployeeManager.WinUI\EmployeeManage
 C:\Users\4xgoo\source\repos\WebUI\Project01\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Images\logo.png
 C:\Users\4xgoo\source\repos\WebUI\Project01\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\controls\HeaderControl.xbf
 C:\Users\4xgoo\source\repos\WebUI\Project01\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\controls\HeaderControl.xbf
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\Images\logo.png
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\App.xbf
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\MainWindow.xbf
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\controls\HeaderControl.xbf
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.WinUI.dll
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.Windows.SDK.NET.dll
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\WinRT.Runtime.dll
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.deps.json
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.runtimeconfig.dev.json
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\App.xbf
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\controls\HeaderControl.xbf
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\MainWindow.xbf
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Images\logo.png
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.exe
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.ApplicationModel.Resources.Projection.pdb
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.runtimeconfig.json
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.dll
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.pdb
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\resources.pri
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\AppxManifest.xml
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI (Package).build.appxrecipe
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapproj.AssemblyReference.cache
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapproj.CoreCompileInputs.cache
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI.pri.xml
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\priconfig.xml
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\resources.resfiles
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\pri.resfiles
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\qualifiers.txt
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapproj.LastBuild.txt

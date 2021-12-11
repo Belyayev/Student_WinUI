@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ICXJ6h8YXJj9cIHcS/36Ji5dzzG/B3vRRt2XUMpsTQncxJT6fXkxJjiObEFModYiwDgMt1do1K15X/jurJhO4Q==",
+  "dgSpecHash": "5Ez8yYBcQrivqTtfPKBY6298HdXWAWwi2j5CwLWOSwaPGWdUvZ8DWX8x5ODAwktnuqwDbhJwgHP4FYkp8Qb5fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\4xgoo\\source\\repos\\WebUI\\Project01\\EmployeeManager.WinUI\\EmployeeManager.WinUI\\EmployeeManager.WinUI.csproj",
+  "projectFilePath": "C:\\Users\\4xgoo\\source\\repos\\WebUI\\Student_WinUI\\EmployeeManager.WinUI\\EmployeeManager.WinUI\\EmployeeManager.WinUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\4xgoo\\.nuget\\packages\\microsoft.projectreunion\\0.8.4\\microsoft.projectreunion.0.8.4.nupkg.sha512",
     "C:\\Users\\4xgoo\\.nuget\\packages\\microsoft.projectreunion.dwrite\\0.8.4\\microsoft.projectreunion.dwrite.0.8.4.nupkg.sha512",
