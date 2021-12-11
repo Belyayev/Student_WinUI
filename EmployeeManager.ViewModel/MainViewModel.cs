@@ -42,7 +42,7 @@ namespace EmployeeManager.ViewModel
 
             foreach (var employee in employees)
             {
-                Employee.Add(new EmployeeViewModel(employee, _employeeDataProvider));
+                Employees.Add(new EmployeeViewModel(employee, _employeeDataProvider));
 
             }
 

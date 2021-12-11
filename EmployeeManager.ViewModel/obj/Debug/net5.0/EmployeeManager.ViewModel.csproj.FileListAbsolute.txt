@@ -1,0 +1,15 @@
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.csproj.AssemblyReference.cache
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.AssemblyInfoInputs.cache
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.AssemblyInfo.cs
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.deps.json
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.dll
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.ViewModel\bin\Debug\net5.0\ref\EmployeeManager.ViewModel.dll
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.pdb
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.Common.dll
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.Common.pdb
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.csproj.CopyComplete
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.dll
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.ViewModel\obj\Debug\net5.0\ref\EmployeeManager.ViewModel.dll
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.pdb

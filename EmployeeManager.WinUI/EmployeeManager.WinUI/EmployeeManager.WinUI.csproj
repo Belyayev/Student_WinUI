@@ -21,6 +21,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\EmployeeManager.Common\EmployeeManager.Common.csproj" />
+    <ProjectReference Include="..\..\EmployeeManager.DataAccess\EmployeeManager.DataAccess.csproj" />
+    <ProjectReference Include="..\..\EmployeeManager.ViewModel\EmployeeManager.ViewModel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Page Update="controls\HeaderControl.xaml">
       <Generator>MSBuild:Compile</Generator>
     </Page>

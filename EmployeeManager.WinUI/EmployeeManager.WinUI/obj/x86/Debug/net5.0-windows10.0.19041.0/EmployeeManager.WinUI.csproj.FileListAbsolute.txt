@@ -69,7 +69,6 @@ C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeMa
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\Microsoft.WinUI.dll
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\WinRT.Runtime.dll
-C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUI.csproj.AssemblyReference.cache
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x86\Debug\net5.0-windows10.0.19041.0\App.g.i.cs
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x86\Debug\net5.0-windows10.0.19041.0\App.g.cs
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x86\Debug\net5.0-windows10.0.19041.0\controls\HeaderControl.g.i.cs
@@ -108,3 +107,10 @@ C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeMa
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x86\Debug\net5.0-windows10.0.19041.0\qualifiers.txt
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x86\Debug\net5.0-windows10.0.19041.0\qualifiers.txt.intermediate
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x86\Debug\net5.0-windows10.0.19041.0\MultipleQualifiersPerDimensionFound.txt
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.Common.dll
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.DataAccess.dll
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.ViewModel.dll
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.Common.pdb
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.DataAccess.pdb
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.ViewModel.pdb
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUI.csproj.AssemblyReference.cache

@@ -17,7 +17,7 @@
             <ColumnDefinition Width="250" />
             <ColumnDefinition />
         </Grid.ColumnDefinitions>
-        
+
         <!--Header-->
         <controls:HeaderControl Grid.ColumnSpan="2"/>
 
@@ -27,12 +27,12 @@
                 <RowDefinition Height="Auto" />
                 <RowDefinition />
             </Grid.RowDefinitions>
-            <Button Content="Refresh" Margin="10" />
-            <ListView Grid.Row="1" />
+            <Button Content="Refresh" Click="{x:Bind ViewModel.Load}" Margin="10" />
+            <ListView Grid.Row="1" ItemsSource="{x:Bind ViewModel.Employees, Mode=OneWay}" SelectedItem="{x:Bind ViewModel.SelectedEmployee, Mode=TwoWay}" DisplayMemberPath="FirstName" />
         </Grid>
-        
+
         <!--MainArea-->
-        <Grid Grid.Row="1" Grid.Column="1">
+        <Grid Grid.Row="1" Grid.Column="1" Visibility="{x:Bind ViewModel.IsEmployeeSelected, Mode=OneWay}">
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto" />
                 <RowDefinition Height="Auto" />
@@ -41,11 +41,18 @@
                 <RowDefinition />
             </Grid.RowDefinitions>
 
-            <TextBox Header="Firstname" Margin="10" />
-            <DatePicker Grid.Row="1" Header="Entry date" Margin="10" />
-            <ComboBox Grid.Row="2" Header="Job role" Margin="10" HorizontalAlignment="Stretch" />
-            <CheckBox Grid.Row="3" Content="Is coffee drinker" Margin="10" />
-            <Button Grid.Row="4" Content="Save" Margin="10 10 10 30" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
+            <TextBox Header="Firstname" Margin="10" Text="{x:Bind ViewModel.SelectedEmployee.FirstName, Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"/>
+            <DatePicker Grid.Row="1" Header="Entry date" Margin="10" SelectedDate="{x:Bind ViewModel.SelectedEmployee.EntryDate, Mode=TwoWay}"/>
+            <ComboBox Grid.Row="2" Header="Job role" Margin="10" HorizontalAlignment="Stretch" 
+                      ItemsSource="{x:Bind ViewModel.JobRoles,Mode=OneWay}" 
+                      DisplayMemberPath="RoleName" SelectedValuePath="Id" 
+                      SelectedValue="{x:Bind ViewModel.SelectedEmployee.JobRoleId, Mode=TwoWay}"/>
+            <CheckBox Grid.Row="3" Content="Is coffee drinker" Margin="10" 
+                      IsChecked="{x:Bind ViewModel.SelectedEmployee.IsCoffeeDrinker, Mode=TwoWay}"/>
+            <Button Grid.Row="4" Content="Save" Margin="10 10 10 30" 
+                    IsEnabled="{x:Bind ViewModel.SelectedEmployee.CanSave, Mode=OneWay}"
+                    Click="{x:Bind ViewModel.SelectedEmployee.Save}"
+                    VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
 
         </Grid>
 

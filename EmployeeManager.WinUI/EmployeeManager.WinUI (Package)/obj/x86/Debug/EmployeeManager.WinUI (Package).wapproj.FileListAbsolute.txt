@@ -82,3 +82,9 @@ C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeMa
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapproj.LastBuild.txt
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.Common.dll
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.DataAccess.dll
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.ViewModel.dll
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.Common.pdb
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.DataAccess.pdb
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.ViewModel.pdb

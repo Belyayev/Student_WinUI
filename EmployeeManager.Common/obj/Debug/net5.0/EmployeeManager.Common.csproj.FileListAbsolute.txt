@@ -2,7 +2,6 @@ C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.Common\bin\Debug
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.dll
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.Common\bin\Debug\net5.0\ref\EmployeeManager.Common.dll
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.pdb
-C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.csproj.AssemblyReference.cache
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.AssemblyInfoInputs.cache
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.Common\obj\Debug
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.dll
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.Common\obj\Debug\net5.0\ref\EmployeeManager.Common.dll
 C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.pdb
+C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.csproj.AssemblyReference.cache

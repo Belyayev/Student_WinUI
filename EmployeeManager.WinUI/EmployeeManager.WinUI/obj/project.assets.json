@@ -53,6 +53,42 @@
           "buildTransitive/Microsoft.ProjectReunion.WinUI.props": {},
           "buildTransitive/Microsoft.ProjectReunion.WinUI.targets": {}
         }
+      },
+      "EmployeeManager.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/EmployeeManager.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManager.Common.dll": {}
+        }
+      },
+      "EmployeeManager.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "EmployeeManager.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EmployeeManager.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManager.DataAccess.dll": {}
+        }
+      },
+      "EmployeeManager.ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "EmployeeManager.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EmployeeManager.ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManager.ViewModel.dll": {}
+        }
       }
     },
     "net5.0-windows10.0.19041/win10-arm64": {
@@ -106,6 +142,42 @@
         "build": {
           "buildTransitive/Microsoft.ProjectReunion.WinUI.props": {},
           "buildTransitive/Microsoft.ProjectReunion.WinUI.targets": {}
+        }
+      },
+      "EmployeeManager.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/EmployeeManager.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManager.Common.dll": {}
+        }
+      },
+      "EmployeeManager.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "EmployeeManager.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EmployeeManager.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManager.DataAccess.dll": {}
+        }
+      },
+      "EmployeeManager.ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "EmployeeManager.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EmployeeManager.ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManager.ViewModel.dll": {}
         }
       }
     },
@@ -161,6 +233,42 @@
           "buildTransitive/Microsoft.ProjectReunion.WinUI.props": {},
           "buildTransitive/Microsoft.ProjectReunion.WinUI.targets": {}
         }
+      },
+      "EmployeeManager.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/EmployeeManager.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManager.Common.dll": {}
+        }
+      },
+      "EmployeeManager.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "EmployeeManager.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EmployeeManager.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManager.DataAccess.dll": {}
+        }
+      },
+      "EmployeeManager.ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "EmployeeManager.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EmployeeManager.ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManager.ViewModel.dll": {}
+        }
       }
     },
     "net5.0-windows10.0.19041/win10-x86": {
@@ -214,6 +322,42 @@
         "build": {
           "buildTransitive/Microsoft.ProjectReunion.WinUI.props": {},
           "buildTransitive/Microsoft.ProjectReunion.WinUI.targets": {}
+        }
+      },
+      "EmployeeManager.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/EmployeeManager.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManager.Common.dll": {}
+        }
+      },
+      "EmployeeManager.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "EmployeeManager.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EmployeeManager.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManager.DataAccess.dll": {}
+        }
+      },
+      "EmployeeManager.ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "EmployeeManager.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EmployeeManager.ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManager.ViewModel.dll": {}
         }
       }
     }
@@ -519,10 +663,28 @@
         "tools/x64/GenXbf.dll",
         "tools/x86/GenXbf.dll"
       ]
+    },
+    "EmployeeManager.Common/1.0.0": {
+      "type": "project",
+      "path": "../../EmployeeManager.Common/EmployeeManager.Common.csproj",
+      "msbuildProject": "../../EmployeeManager.Common/EmployeeManager.Common.csproj"
+    },
+    "EmployeeManager.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../../EmployeeManager.DataAccess/EmployeeManager.DataAccess.csproj",
+      "msbuildProject": "../../EmployeeManager.DataAccess/EmployeeManager.DataAccess.csproj"
+    },
+    "EmployeeManager.ViewModel/1.0.0": {
+      "type": "project",
+      "path": "../../EmployeeManager.ViewModel/EmployeeManager.ViewModel.csproj",
+      "msbuildProject": "../../EmployeeManager.ViewModel/EmployeeManager.ViewModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0-windows10.0.19041": [
+      "EmployeeManager.Common >= 1.0.0",
+      "EmployeeManager.DataAccess >= 1.0.0",
+      "EmployeeManager.ViewModel >= 1.0.0",
       "Microsoft.ProjectReunion >= 0.8.4",
       "Microsoft.ProjectReunion.Foundation >= 0.8.4",
       "Microsoft.ProjectReunion.WinUI >= 0.8.4"
@@ -559,7 +721,17 @@
       "frameworks": {
         "net5.0-windows10.0.19041": {
           "targetAlias": "net5.0-windows10.0.19041.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\4xgoo\\source\\repos\\WebUI\\Student_WinUI\\EmployeeManager.Common\\EmployeeManager.Common.csproj": {
+              "projectPath": "C:\\Users\\4xgoo\\source\\repos\\WebUI\\Student_WinUI\\EmployeeManager.Common\\EmployeeManager.Common.csproj"
+            },
+            "C:\\Users\\4xgoo\\source\\repos\\WebUI\\Student_WinUI\\EmployeeManager.DataAccess\\EmployeeManager.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\4xgoo\\source\\repos\\WebUI\\Student_WinUI\\EmployeeManager.DataAccess\\EmployeeManager.DataAccess.csproj"
+            },
+            "C:\\Users\\4xgoo\\source\\repos\\WebUI\\Student_WinUI\\EmployeeManager.ViewModel\\EmployeeManager.ViewModel.csproj": {
+              "projectPath": "C:\\Users\\4xgoo\\source\\repos\\WebUI\\Student_WinUI\\EmployeeManager.ViewModel\\EmployeeManager.ViewModel.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

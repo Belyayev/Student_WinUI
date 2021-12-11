@@ -12,6 +12,8 @@ using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using EmployeeManager.ViewModel;
+using EmployeeManager.DataAccess;
 
 // To learn more about WinUI, the WinUI project structure,
 // and more about our project templates, see: http://aka.ms/winui-project-info.
@@ -26,7 +28,18 @@ namespace EmployeeManager.WinUI
         public MainWindow()
         {
             this.InitializeComponent();
+            ViewModel = new MainViewModel(new EmployeeDataProvider());
+            this.Activated += MainWindow_Activated;
         }
 
+        private void MainWindow_Activated(object sender, WindowActivatedEventArgs args)
+        {
+            if(ViewModel.Employees.Count == 0)
+            {
+                ViewModel.Load();
+            }
+        }
+
+        internal MainViewModel ViewModel { get; }
     }
 }

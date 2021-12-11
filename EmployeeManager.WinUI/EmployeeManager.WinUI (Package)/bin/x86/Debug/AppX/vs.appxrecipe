@@ -30,21 +30,21 @@
     <AppXManifest Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI %28Package%29\bin\x86\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-12-11T01:25:31.350</Modified>
+      <Modified>2021-12-11T23:05:54.000</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-12-11T01:25:29.897</Modified>
+      <Modified>2021-12-11T23:05:52.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf">
       <PackagePath>MainWindow.xbf</PackagePath>
-      <Modified>2021-12-11T01:25:29.897</Modified>
+      <Modified>2021-12-11T23:05:52.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\controls\HeaderControl.xbf">
       <PackagePath>controls\HeaderControl.xbf</PackagePath>
-      <Modified>2021-12-11T01:25:29.897</Modified>
+      <Modified>2021-12-11T23:05:52.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\Images\logo.png">
       <PackagePath>Images\logo.png</PackagePath>
@@ -90,7 +90,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI %28Package%29\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-12-11T01:25:31.302</Modified>
+      <Modified>2021-12-11T22:40:41.599</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\4xgoo\.nuget\packages\microsoft.projectreunion.foundation\0.8.4\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.dll">
       <PackagePath>EmployeeManager.WinUI\Microsoft.ApplicationModel.Resources.Projection.dll</PackagePath>
@@ -108,25 +108,37 @@
       <PackagePath>EmployeeManager.WinUI\WinRT.Runtime.dll</PackagePath>
       <Modified>2021-09-16T03:42:10.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.dll">
+      <PackagePath>EmployeeManager.WinUI\EmployeeManager.Common.dll</PackagePath>
+      <Modified>2021-12-11T22:40:32.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.dll">
+      <PackagePath>EmployeeManager.WinUI\EmployeeManager.DataAccess.dll</PackagePath>
+      <Modified>2021-12-11T22:40:33.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.dll">
+      <PackagePath>EmployeeManager.WinUI\EmployeeManager.ViewModel.dll</PackagePath>
+      <Modified>2021-12-11T22:50:32.744</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUI.deps.json">
       <PackagePath>EmployeeManager.WinUI\EmployeeManager.WinUI.deps.json</PackagePath>
-      <Modified>2021-12-11T01:25:30.400</Modified>
+      <Modified>2021-12-11T22:40:40.134</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUI.runtimeconfig.dev.json">
       <PackagePath>EmployeeManager.WinUI\EmployeeManager.WinUI.runtimeconfig.dev.json</PackagePath>
-      <Modified>2021-12-11T01:25:30.430</Modified>
+      <Modified>2021-12-11T22:40:40.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x86\Debug\net5.0-windows10.0.19041.0\App.xbf">
       <PackagePath>EmployeeManager.WinUI\App.xbf</PackagePath>
-      <Modified>2021-12-11T01:25:29.897</Modified>
+      <Modified>2021-12-11T23:05:52.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x86\Debug\net5.0-windows10.0.19041.0\controls\HeaderControl.xbf">
       <PackagePath>EmployeeManager.WinUI\controls\HeaderControl.xbf</PackagePath>
-      <Modified>2021-12-11T01:25:29.897</Modified>
+      <Modified>2021-12-11T23:05:52.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf">
       <PackagePath>EmployeeManager.WinUI\MainWindow.xbf</PackagePath>
-      <Modified>2021-12-11T01:25:29.897</Modified>
+      <Modified>2021-12-11T23:05:52.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\Images\logo.png">
       <PackagePath>EmployeeManager.WinUI\Images\logo.png</PackagePath>
@@ -134,15 +146,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\obj\x86\Debug\net5.0-windows10.0.19041.0\apphost.exe">
       <PackagePath>EmployeeManager.WinUI\EmployeeManager.WinUI.exe</PackagePath>
-      <Modified>2021-12-11T01:25:30.069</Modified>
+      <Modified>2021-12-11T23:05:53.058</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUI.runtimeconfig.json">
       <PackagePath>EmployeeManager.WinUI\EmployeeManager.WinUI.runtimeconfig.json</PackagePath>
-      <Modified>2021-12-11T01:25:30.428</Modified>
+      <Modified>2021-12-11T22:40:40.164</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\4xgoo\source\repos\WebUI\Student_WinUI\EmployeeManager.WinUI\EmployeeManager.WinUI\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUI.dll">
       <PackagePath>EmployeeManager.WinUI\EmployeeManager.WinUI.dll</PackagePath>
-      <Modified>2021-12-11T01:25:30.038</Modified>
+      <Modified>2021-12-11T23:05:53.047</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
